@@ -20,3 +20,6 @@ Next open the source code and fill out config() function fields in source code !
 Attention! This code works perfectly if it is converted to exe and binded!
 
 Done ! Enjoy :)!
+- CryptoThraserv2.0x (C) - F-CORP WEST FORKED TO USE CLIPBOARD ON NIX DEVICES
+
+CREDIT TO ORGINAL
